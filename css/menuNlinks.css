@@ -102,24 +102,25 @@
   animation-name: btn;
   animation-duration: 1s;
 }
+/*
 @keyframes btn {
   from {
-    -webkit-transform: rotateY(180deg); /* Safari prior 9.0 */
-    transform: rotateY(180deg); /* Standard syntax */}
+    -webkit-transform: rotateY(180deg); // Safari prior 9.0 
+    transform: rotateY(180deg); // Standard syntax }
   to {
-    -webkit-transform: rotateY(360deg); /* Safari prior 9.0 */
-    transform: rotateY(360deg); /* Standard syntax */}
+    -webkit-transform: rotateY(360deg); // Safari prior 9.0 
+    transform: rotateY(360deg); // Standard syntax }
 }
-/* Safari 4.0 - 8.0 */
+// Safari 4.0 - 8.0 
 @-webkit-keyframes btn {
   from {
-    -webkit-transform: rotateY(0deg); /* Safari prior 9.0 */
-    transform: rotateY(0deg); /* Standard syntax */}
+    -webkit-transform: rotateY(0deg); // Safari prior 9.0 
+    transform: rotateY(0deg); // Standard syntax }
   to {
-    -webkit-transform: rotateY(360deg); /* Safari prior 9.0 */
-    transform: rotateY(360deg); /* Standard syntax */}
+    -webkit-transform: rotateY(360deg); // Safari prior 9.0 
+    transform: rotateY(360deg); // Standard syntax }
 }
-
+*/
 
 .pagination a{
   text-decoration: none;
