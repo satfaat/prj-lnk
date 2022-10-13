@@ -25,19 +25,20 @@ body, .own, .public {
   font-size: 100%;
   justify-content: center;}
 .own {
-  background: hsla(247, 96%, 11%, 0.7) url("../../img/bg/tree_4.jpg") no-repeat fixed center;
+  background: hsl(250, 50%, 5%) url("../../img/bg/tree_4.jpg") no-repeat fixed center;
+  /*hsla(250, 50%, 5%, 0.9)*/
   background-size: cover;
 }
 .public {
-  background: hsla(247, 96%, 11%, 0.5) url("../../img/bg/night_sky.jpg") no-repeat fixed center;
+  background: hsl(250, 50%, 5%) url("../../img/bg/night_sky.jpg") no-repeat fixed center;
   background-size: cover;
 }
 .dark {
-  background: hsla(247, 96%, 11%, 0.5) url("../../img_ign/ciri.jpg") no-repeat fixed center;
+  background: hsl(250, 50%, 5%) url("../../img_ign/ciri.jpg") no-repeat fixed center;
   background-size: cover;
 }
 #lnk_wrk{
-  background: hsla(247, 96%, 11%, 0.5) url("../../img/bg/work_3.jpg") no-repeat fixed center;
+  background: hsl(250, 50%, 5%) url("../../img/bg/work_3.jpg") no-repeat fixed center;
   background-size: cover;
 }
 
